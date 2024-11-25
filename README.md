@@ -1,10 +1,10 @@
-# ReadmeGenerator
+# reaedme generator
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Description
 
-create readme easier with this app, you just answer few questions and you readme will be ready 
+making readme just got easier \, by answering few questions the reademe will be created.
 
 ## Table of Contents
 
@@ -18,11 +18,11 @@ create readme easier with this app, you just answer few questions and you readme
 
 ## Installation
 
-git clone from the repo and open it in terminal
+just git clone from the repo on you local computer
 
 ## Usage
 
-open it in Vscode then open terminak type node index.js then start answreing questions
+open the file in vs code and then open terminal and type node idex.js and start ansewering questions
 
 ## License
 
@@ -30,11 +30,11 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 
 ## Contributing
 
-anyone can apply chnages and add more questions if they like to i will go through them and if good i will gladly merge them together.
+anybody can contribute and add more questions i will go throught them and if they good i will merge them to the mian file 
 
 ## Tests
 
-once you run node index.js in terminal it should start asking you questions and after you finished the questionare it should generate you a new readme file 
+once you type node index.js in terminal it should strat automaticlly asking you qurstions and once you finish the questionare it should create you a new reademe file
 
 ## Questions
 
@@ -45,4 +45,4 @@ If you have any questions, feel free to reach out:
 
 ## Walkthrough Video
 
-Watch the walkthrough video demonstrating the functionality of this project: [https://drive.google.com/file/d/1LX05uG6kyTm1Idxvt7h9JDfFNNmtYgME/view]
+Watch the walkthrough video demonstrating the functionality of this project: [Walkthrough Video](undefined)
