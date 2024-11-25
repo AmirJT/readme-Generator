@@ -45,4 +45,4 @@ If you have any questions, feel free to reach out:
 
 ## Walkthrough Video
 
-Watch the walkthrough video demonstrating the functionality of this project: [Walkthrough Video](undefined)
+Watch the walkthrough video demonstrating the functionality of this project: [https://drive.google.com/file/d/1ZYSJoah2DYHvPKI17BmZeRylCyNXSyLm/view]
